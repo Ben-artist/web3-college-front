@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# CodeRabbit AI代码审查
+# 这里可以添加CodeRabbit的集成逻辑
+echo "CodeRabbit AI review will be triggered for this commit"
